@@ -6,7 +6,7 @@ current.textContent=time.format("dddd, MMMM Do");
 
 currentHour=moment().format("H");
 hour=parseInt(currentHour);
-
+console.log(hour);
 
 
 
